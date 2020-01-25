@@ -1,0 +1,16 @@
+# -----------------------------------------
+# Syntax colouring
+# -----------------------------------------
+
+# Datatypes (such as objects)
+st_convert	KEYWORD1
+kvp	KEYWORD1
+sentence	KEYWORD1
+
+#Methods / functions
+kvp_from_sentence	KEYWORD2
+sentence_from_kvp	KEYWORD2
+
+
+# Constants
+MAX_SENTENCE_SIZE	LITERAL1

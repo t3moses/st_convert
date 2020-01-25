@@ -1,0 +1,11 @@
+name=st_convert
+version=1.0.0
+author=TimMoses
+maintainer=TimMoses
+sentence=Seatalk data type conversion on Arduino.
+paragraph=
+category=Communication
+url=https://github.com/t3moses/st_convert
+architectures=ave
+includes=st_convert
+.h
